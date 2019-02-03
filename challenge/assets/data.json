@@ -1,0 +1,10 @@
+{
+    "headerTitle": "MZ.com",
+    "future_date": "Sun Feb 24 2019 04:00:00",
+    "items": [
+        {"icon": "../assets/Images/timer.png", "title": "Text in here"},
+        {"icon": "../assets/Images/timer.png", "title": "Text in here"},
+        {"icon": "../assets/Images/timer.png", "title": "Text in here"},
+        {"icon": "../assets/Images/timer.png", "title": "Text in here"}
+    ]
+}
